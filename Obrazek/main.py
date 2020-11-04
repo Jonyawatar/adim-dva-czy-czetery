@@ -32,6 +32,5 @@ def save_image(image,wombat):
 ax=load_image("obrazek.pgm")
 save_image(ax,"adim.pgm")
 
- 
 
 print(ax)
